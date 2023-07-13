@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KMaheshBabu
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react
+- 🌱 I’m currently learning react and python
 - 📫 How to reach me kudikalamahesh.mstech@gmail.com
 
 <!---
